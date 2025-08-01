@@ -7,7 +7,7 @@ Some notable and public work:
 
 - **Distributed system, auth, local-first, cryptography**
   - https://github.com/ucan-wg/go-ucan: User-Controlled Authorization Network (UCAN) tokens in go
-  - https://github.com/MetaMask/go-did-it: Decentralized Identifiers (DIDs), fast and simple
+  - https://github.com/MetaMask/go-did-it: Decentralized Identifiers (DIDs), fast and simple, crypto-handling included.
   - https://github.com/ucan-wg/go-varsig: Multi-format for cryptographic signatures
   - https://github.com/ucan-wg/container: Specification for a UCAN container format
 
