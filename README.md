@@ -5,7 +5,7 @@ Some notable and public work:
 - https://github.com/git-bug/git-bug (>9k⭐): Distributed, offline-first bug tracker embedded in git
 
 
-- **Distributed system, auth, local-first**
+- **Distributed system, auth, local-first, cryptography**
   - https://github.com/ucan-wg/go-ucan: User-Controlled Authorization Network (UCAN) tokens in go
   - https://github.com/MetaMask/go-did-it: Decentralized Identifiers (DIDs), fast and simple
   - https://github.com/ucan-wg/go-varsig: Multi-format for cryptographic signatures
