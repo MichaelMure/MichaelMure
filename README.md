@@ -1,6 +1,6 @@
 ## Ho Hi
 
-Some notable and public work:
+Some notable and free-software work:
 
 - https://github.com/git-bug/git-bug (>9k⭐): Distributed, offline-first bug tracker embedded in git
 
