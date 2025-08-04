@@ -13,7 +13,7 @@ Some notable and free-software work:
 
 
 - **Fun stuff**
-  - https://github.com/MichaelMure/ptimulus.eu, https://github.com/MichaelMure/Ptimulus: High-altitude (30km) ballooning and photography with Android smartphones
+  - https://ptimulus.eu, https://github.com/MichaelMure/Ptimulus: High-altitude (30km) ballooning and photography with Android smartphones
 
 
 - **IPFS ecosystem** and related: I have plenty of contributions in many repositories, in particular:
