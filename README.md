@@ -2,10 +2,8 @@
 
 Some notable and free-software work:
 
-- https://github.com/git-bug/git-bug (>9k⭐): Distributed, offline-first bug tracker embedded in git
-
-
-- **Distributed system, auth, local-first, cryptography**
+- **Distributed system, auth, local-first, CRDTs, cryptography**
+  - https://github.com/git-bug/git-bug (>9k⭐): Distributed, offline-first bug tracker embedded in git
   - https://github.com/ucan-wg/go-ucan: User-Controlled Authorization Network (UCAN) tokens in go
   - https://github.com/MetaMask/go-did-it: Decentralized Identifiers (DIDs), fast and simple, crypto-handling included.
   - https://github.com/ucan-wg/go-varsig: Multi-format for cryptographic signatures
