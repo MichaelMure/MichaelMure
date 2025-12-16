@@ -8,6 +8,7 @@ Some notable and free-software work:
   - https://github.com/MetaMask/go-did-it: Decentralized Identifiers (DIDs), fast and simple, crypto-handling included.
   - https://github.com/ucan-wg/go-varsig: Multi-format for cryptographic signatures
   - https://github.com/ucan-wg/container: Specification for a UCAN container format
+  - https://github.com/MichaelMure/go-iblite: Invertible Bloom Lookup Table (IBLT), for set reconciliation
 
 
 - **Fun stuff**
