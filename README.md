@@ -9,7 +9,7 @@ Some notable and free-software work:
   - https://github.com/ucan-wg/go-varsig: Multi-format for cryptographic signatures
   - https://github.com/ucan-wg/container: Specification for a UCAN container format
   - https://github.com/MichaelMure/go-iblite: Invertible Bloom Lookup Table (IBLT), for set reconciliation
-
+  - https://github.com/MichaelMure/gotomerge: an implementation of Automerge in go
 
 - **Fun stuff**
   - https://ptimulus.eu, https://github.com/MichaelMure/Ptimulus: High-altitude (30km) ballooning and photography with Android smartphones
