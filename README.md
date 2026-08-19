@@ -13,7 +13,8 @@ Some notable and free-software work:
 
 - **Fun stuff**
   - https://ptimulus.eu, https://github.com/MichaelMure/Ptimulus: High-altitude (30km) ballooning and photography with Android smartphones
-  - https://github.com/MichaelMure/git-ownership: a tool to visualize code ownership over time, from the git history 
+  - https://github.com/MichaelMure/git-ownership: a tool to visualize code ownership over time, from the git history
+  - https://github.com/MichaelMure/gogc98: visualize the work of the go allocator and GC on the heap, live
 
 
 - **IPFS ecosystem** and related: I have plenty of contributions in many repositories, in particular:
