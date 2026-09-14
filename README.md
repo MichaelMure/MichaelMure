@@ -5,7 +5,7 @@ Some notable and free-software work:
 - **Distributed system, auth, local-first, CRDTs, cryptography**
   - https://github.com/git-bug/git-bug (>9k⭐): Distributed, offline-first bug tracker embedded in git
   - https://github.com/ucan-wg/go-ucan: User-Controlled Authorization Network (UCAN) tokens in go
-  - https://github.com/MetaMask/go-did-it: Decentralized Identifiers (DIDs), fast and simple, crypto-handling included.
+  - https://github.com/ucan-wg/go-did-it: Decentralized Identifiers (DIDs), fast and simple, crypto-handling included.
   - https://github.com/ucan-wg/go-varsig: Multi-format for cryptographic signatures
   - https://github.com/ucan-wg/container: Specification for a UCAN container format
   - https://github.com/MichaelMure/go-iblite: Invertible Bloom Lookup Table (IBLT), for set reconciliation
